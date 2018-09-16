@@ -4,6 +4,5 @@ __pycache__
 *.json
 *.zip
 .idea
-.udacity-pa
 sudoku-[0-9]*.zip
 sudoku-result-[0-9]*.json
